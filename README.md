@@ -1,7 +1,7 @@
 # 🐾 Bem vindo ao projeto Petshop Haru da equipe Pet TechOps! 
 Nosso repositório tem como principal objetivo criar uma solução de atendimento para o Petshop Haru, aplicando os princípios fundamentais de DevOps para garantir eficiência, qualidade e colaboração em todo o ciclo de vida do software. Buscamos não apenas implementar uma aplicação funcional, mas também promover uma cultura de integração e entrega contínua, e automação de processos. O Petshop Haru busca uma solução de atendimento que permita aos clientes visualizar os horários disponíveis para banho e tosa, bem como agendar horários de maneira intuitiva e eficiente.
 
-Este repositório é dedicado à disciplina de Ambiente de Desenvolvimento e Operação - DEVOPS no curso de Sistemas de Informação da Faculdade Impacta.
+Este repositório é dedicado à disciplina de Ambiente de Desenvolvimento e Operação - Devops no curso de Sistemas de Informação da Faculdade Impacta.
 ## 🚨 Os principais problemas que nossa solução busca solucionar são:
 - **Dificuldade no Agendamento:** Muitos clientes enfrentam dificuldades ao tentar agendar serviços de banho e tosa devido a processos complexos ou falta de clareza nos horários disponíveis.<br>
 - **Falta de Visibilidade:** A ausência de uma plataforma online pode resultar em falta de visibilidade dos horários disponíveis, levando a incertezas e possíveis conflitos de agenda.<br>
