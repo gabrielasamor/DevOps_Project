@@ -27,7 +27,7 @@ Em resumo, estamos comprometidos em oferecer uma solução de atendimento para o
 - **Reuniões:** Utilizamos o Google Meet para reuniões síncronas e comunicação entre a equipe.
 
 ## 💻 Desenvolvimento:
-- **Frontend:** Para o design, utilizaremos o Figma, e para o desenvolvimento da interface do usuário, utilizaremos as tecnologias HTML, CSS e JavaScript.
+- **Frontend:** Para o design, utilizaremos o Figma, e para o desenvolvimento da interface do usuário, utilizaremos as tecnologias HTML, CSS e JavaScript junto à biblioteca React JS.
 - **Backend:** Implementamos nossa API utilizando Flask (framework web em Python) para fornecer a lógica necessária para o funcionamento de nossa aplicação.
 - **Banco de Dados:** Utilizamos SQL Server para armazenar e gerenciar os dados da aplicação de forma eficiente e segura.
 - **Infraestrutura:** Para hospedar nossa aplicação, fazemos uso dos serviços da AWS, garantindo escalabilidade e disponibilidade.
